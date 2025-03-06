@@ -1,0 +1,15 @@
+C:\Users\isard\Documents\Programacion\Acfour_Osorio_Jhon\acfour_Jhon_Osorio\acfour_Jhon_Osorio\bin\Debug\net8.0\acfour_Jhon_Osorio.exe
+C:\Users\isard\Documents\Programacion\Acfour_Osorio_Jhon\acfour_Jhon_Osorio\acfour_Jhon_Osorio\bin\Debug\net8.0\acfour_Jhon_Osorio.deps.json
+C:\Users\isard\Documents\Programacion\Acfour_Osorio_Jhon\acfour_Jhon_Osorio\acfour_Jhon_Osorio\bin\Debug\net8.0\acfour_Jhon_Osorio.runtimeconfig.json
+C:\Users\isard\Documents\Programacion\Acfour_Osorio_Jhon\acfour_Jhon_Osorio\acfour_Jhon_Osorio\bin\Debug\net8.0\acfour_Jhon_Osorio.dll
+C:\Users\isard\Documents\Programacion\Acfour_Osorio_Jhon\acfour_Jhon_Osorio\acfour_Jhon_Osorio\bin\Debug\net8.0\acfour_Jhon_Osorio.pdb
+C:\Users\isard\Documents\Programacion\Acfour_Osorio_Jhon\acfour_Jhon_Osorio\acfour_Jhon_Osorio\obj\Debug\net8.0\acfour_Jhon_Osorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isard\Documents\Programacion\Acfour_Osorio_Jhon\acfour_Jhon_Osorio\acfour_Jhon_Osorio\obj\Debug\net8.0\acfour_Jhon_Osorio.AssemblyInfoInputs.cache
+C:\Users\isard\Documents\Programacion\Acfour_Osorio_Jhon\acfour_Jhon_Osorio\acfour_Jhon_Osorio\obj\Debug\net8.0\acfour_Jhon_Osorio.AssemblyInfo.cs
+C:\Users\isard\Documents\Programacion\Acfour_Osorio_Jhon\acfour_Jhon_Osorio\acfour_Jhon_Osorio\obj\Debug\net8.0\acfour_Jhon_Osorio.csproj.CoreCompileInputs.cache
+C:\Users\isard\Documents\Programacion\Acfour_Osorio_Jhon\acfour_Jhon_Osorio\acfour_Jhon_Osorio\obj\Debug\net8.0\acfour_Jhon_Osorio.sourcelink.json
+C:\Users\isard\Documents\Programacion\Acfour_Osorio_Jhon\acfour_Jhon_Osorio\acfour_Jhon_Osorio\obj\Debug\net8.0\acfour_Jhon_Osorio.dll
+C:\Users\isard\Documents\Programacion\Acfour_Osorio_Jhon\acfour_Jhon_Osorio\acfour_Jhon_Osorio\obj\Debug\net8.0\refint\acfour_Jhon_Osorio.dll
+C:\Users\isard\Documents\Programacion\Acfour_Osorio_Jhon\acfour_Jhon_Osorio\acfour_Jhon_Osorio\obj\Debug\net8.0\acfour_Jhon_Osorio.pdb
+C:\Users\isard\Documents\Programacion\Acfour_Osorio_Jhon\acfour_Jhon_Osorio\acfour_Jhon_Osorio\obj\Debug\net8.0\acfour_Jhon_Osorio.genruntimeconfig.cache
+C:\Users\isard\Documents\Programacion\Acfour_Osorio_Jhon\acfour_Jhon_Osorio\acfour_Jhon_Osorio\obj\Debug\net8.0\ref\acfour_Jhon_Osorio.dll
